@@ -2,9 +2,8 @@
 
 Group Members:
 - Cagla Celik
-- Group Member x
-- Group Member x
-- Group Member x
+- Fuat Baslar
+
 
 The end user is Lana. Also the owner.
 
