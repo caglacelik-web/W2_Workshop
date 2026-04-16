@@ -3,6 +3,10 @@
 Group Members:
 - Cagla Celik
 - Fuat Baslar
+- Godknows Mutize 
+- Mina Saeday 
+- Kidus Tesema 
+- Rodas Mengesha
 
 
 The end user is Lana. Also the owner.
