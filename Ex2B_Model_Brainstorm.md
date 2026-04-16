@@ -108,7 +108,18 @@ Relationships:
 Possible many-to-many relationship:
 - If multiple dogs can be included in one group walk, and each dog can join many group walks  then a resolving table such as Walk_Dogs may be needed.
 
+# ER Diagrams Review
 
+Difference:
+- Fuat's ERD was a text-based ASCII model, while Cagla's ERD was a visual graphical diagram that included explicit data types (int, string, date) and relationship lines
+
+Pros:
+- Fuat's ER diagram is very fast to write and super easy to update in GitHub.
+- Cagla's ER diagram is really easy to read and understand. It looks great for showing to a client like Lana.
+
+Cons:
+- Fuat's ER diagram doesn't have visual arrows, so it's a bit harder to see how everything connects quickly.
+- Cagla's ER diagram takes more time to draw and update. Also, GitHub just sees it as an image, not as code.
 
 
 
