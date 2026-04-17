@@ -122,10 +122,14 @@ Pros:
 - Fuat's ER diagram is very fast to write and super easy to update in GitHub.
 - Cagla's ER diagram is really easy to read and understand. It looks great for showing to a client like Lana.
 - The logical model makes the database structure much clearer. It shows the primary keys and foreign keys needed to connect the tables. It helps prepare the database for building in MySQL.
+- Godknows' ER diagram makes the database structure much clearer by showing primary keys and foreign keys needed to connect the tables.
+
 
 Cons:
 - Fuat's ER diagram doesn't have visual arrows, so it's a bit harder to see how everything connects quickly.
 - Cagla's ER diagram takes more time to draw and update. Also, GitHub just sees it as an image, not as code.
 - It is more detailed, so it can be harder for non-technical users to understand. It may take more time to update if the business requirements change.
+- Godknows' logical model is more detailed, so it can be harder for non-technical users like Lana to understand.
+
 
 
