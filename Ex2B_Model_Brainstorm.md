@@ -116,21 +116,16 @@ Possible many-to-many relationship:
 
 Difference:
 - Fuat's ERD was a text-based ASCII model, while Cagla's ERD was a visual graphical diagram that included explicit data types (int, string, date) and relationship lines
+- Mina's Review. The conceptual model explains the business requirements in a general way, while the logical model breaks those ideas into specific tables and relationships.
 
 Pros:
 - Fuat's ER diagram is very fast to write and super easy to update in GitHub.
 - Cagla's ER diagram is really easy to read and understand. It looks great for showing to a client like Lana.
+- The logical model makes the database structure much clearer. It shows the primary keys and foreign keys needed to connect the tables. It helps prepare the database for building in MySQL.
 
 Cons:
 - Fuat's ER diagram doesn't have visual arrows, so it's a bit harder to see how everything connects quickly.
 - Cagla's ER diagram takes more time to draw and update. Also, GitHub just sees it as an image, not as code.
-Mina's Review
-Difference. The conceptual model explains the business requirements in a general way, while the logical model breaks those ideas into specific tables and relationships.
-
-Pros: The logical model makes the database structure much clearer.
-It shows the primary keys and foreign keys needed to connect the tables.
-It helps prepare the database for building in MySQL.
-Cons: It is more detailed, so it can be harder for non-technical users to understand.
-It may take more time to update if the business requirements change
+- It is more detailed, so it can be harder for non-technical users to understand. It may take more time to update if the business requirements change.
 
 
